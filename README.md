@@ -5,3 +5,5 @@
 * The name fits as we are trying to provide a system that provides a consistent means of generating Maven projects.
 
 Source: Google
+
+https://maven.apache.org/guides/introduction/introduction-to-archetypes.html
